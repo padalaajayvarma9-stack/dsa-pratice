@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0933-number-of-recent-calls) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
