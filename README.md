@@ -46,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
