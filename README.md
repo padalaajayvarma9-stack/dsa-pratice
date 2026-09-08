@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
