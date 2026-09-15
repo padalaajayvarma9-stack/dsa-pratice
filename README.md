@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0704-binary-search) |
