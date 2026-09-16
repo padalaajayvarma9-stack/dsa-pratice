@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
