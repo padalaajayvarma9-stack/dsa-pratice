@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0303-range-sum-query-immutable) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -113,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
