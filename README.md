@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/padalaajayvarma9-stack/java-dsa-pratice/tree/master/0217-contains-duplicate) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
