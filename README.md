@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0367-valid-perfect-square) |
 ## Tree
 |  |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/padalaajayvarma9-stack/dsa-pratice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
